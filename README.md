@@ -4,7 +4,8 @@ Determine the transaction is fraud or not with anomaly detection - Isolated Fore
 dataset source :
 https://www.kaggle.com/datasets/iabhishekofficial/creditcard-fraud-detection/data
 
-'''python
+```python
 df_fraud
+```
 
 ![Heatmap](heatmap.png)
